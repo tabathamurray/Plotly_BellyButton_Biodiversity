@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray
+}
+
+.jumbotron {
+    background-image: url("https://everyone.plos.org/wp-content/uploads/sites/5/legacy-featured-images/everyone-blog-Bacillus-16x9.jpg");
+    background-size: cover;
+    
+}
+
+.jumbotron h1{
+    color: black;
+}
+
+.jumbotron h3{
+    color: white;
+}
+
+.well h4{
+    color: white;
+}
+
+.panel-title {
+    color: white;
+    font-weight:bold;
+} 
